@@ -1,6 +1,5 @@
 var celfield = document.getElementById("celsius");
 var fahrfield = document.getElementById("fahrenheit");
-var output = document.getElementById("output");
 
 celfield.onchange = function celsiusToFahrenheit () {
 
